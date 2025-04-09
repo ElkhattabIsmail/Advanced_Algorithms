@@ -1,0 +1,7 @@
+C:\Users\ULTRAPC\OneDrive\Bureau\23- Algorithms Level 6\03- Bubble Sort\Bobble Sort Implementation\bin\Debug\Bobble Sort Implementation.exe.config
+C:\Users\ULTRAPC\OneDrive\Bureau\23- Algorithms Level 6\03- Bubble Sort\Bobble Sort Implementation\bin\Debug\Bobble Sort Implementation.exe
+C:\Users\ULTRAPC\OneDrive\Bureau\23- Algorithms Level 6\03- Bubble Sort\Bobble Sort Implementation\bin\Debug\Bobble Sort Implementation.pdb
+C:\Users\ULTRAPC\OneDrive\Bureau\23- Algorithms Level 6\03- Bubble Sort\Bobble Sort Implementation\obj\Debug\Bobble Sort Implementation.csproj.AssemblyReference.cache
+C:\Users\ULTRAPC\OneDrive\Bureau\23- Algorithms Level 6\03- Bubble Sort\Bobble Sort Implementation\obj\Debug\Bobble Sort Implementation.csproj.CoreCompileInputs.cache
+C:\Users\ULTRAPC\OneDrive\Bureau\23- Algorithms Level 6\03- Bubble Sort\Bobble Sort Implementation\obj\Debug\Bobble Sort Implementation.exe
+C:\Users\ULTRAPC\OneDrive\Bureau\23- Algorithms Level 6\03- Bubble Sort\Bobble Sort Implementation\obj\Debug\Bobble Sort Implementation.pdb
