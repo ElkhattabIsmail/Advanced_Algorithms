@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ULTRAPC\\Downloads\\Advanced_Algorithms\\05- AVL Tree\\01- Implementing AVL Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F03789E4-B61C-4620-B8C1-E70F635A78C2}|Implementing AVL Tree\\Implementing AVL Tree.csproj|c:\\users\\ultrapc\\downloads\\advanced_algorithms\\05- avl tree\\01- implementing avl tree\\implementing avl tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03789E4-B61C-4620-B8C1-E70F635A78C2}|Implementing AVL Tree\\Implementing AVL Tree.csproj|solutionrelative:implementing avl tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\Downloads\\Advanced_Algorithms\\05- AVL Tree\\01- Implementing AVL Tree\\Implementing AVL Tree\\Program.cs",
+              "RelativeDocumentMoniker": "Implementing AVL Tree\\Program.cs",
+              "ToolTip": "C:\\Users\\ULTRAPC\\Downloads\\Advanced_Algorithms\\05- AVL Tree\\01- Implementing AVL Tree\\Implementing AVL Tree\\Program.cs",
+              "RelativeToolTip": "Implementing AVL Tree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:51:03.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
