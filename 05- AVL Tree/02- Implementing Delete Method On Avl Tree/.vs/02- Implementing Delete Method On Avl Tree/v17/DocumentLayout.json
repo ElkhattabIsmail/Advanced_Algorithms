@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ULTRAPC\\Downloads\\Advanced_Algorithms\\05- AVL Tree\\02- Implementing Delete Method On Avl Tree\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{290915F3-49FB-4206-B2A7-93E4B31F3BAA}|07- Implementing Delete Method On Avl Tree.csproj|c:\\users\\ultrapc\\downloads\\advanced_algorithms\\05- avl tree\\02- implementing delete method on avl tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{290915F3-49FB-4206-B2A7-93E4B31F3BAA}|07- Implementing Delete Method On Avl Tree.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{290915F3-49FB-4206-B2A7-93E4B31F3BAA}|02- Implementing Delete Method On Avl Tree.csproj|c:\\users\\ultrapc\\downloads\\advanced_algorithms\\05- avl tree\\02- implementing delete method on avl tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290915F3-49FB-4206-B2A7-93E4B31F3BAA}|02- Implementing Delete Method On Avl Tree.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ULTRAPC\\Downloads\\Advanced_Algorithms\\05- AVL Tree\\02- Implementing Delete Method On Avl Tree\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAuwKwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAANQAAAAAAAAAAAAmwOkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T18:19:11.771Z",
               "EditorCaption": ""
